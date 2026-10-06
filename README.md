@@ -1,4 +1,4 @@
-# Hi, I'm Kayra 👋
+# Hi, I'm Kayra 
 
 <p>
   <strong>Game Designer | Unity | C# | 2D Games</strong>
@@ -11,15 +11,15 @@
 
 ---
 
-## 🎮 What I'm Working On
+##  What I'm Working On
 
-- 🌱 <strong>Terrabloom</strong> — 2D environment puzzle game focused on restoring polluted land.
-- 🧩 <strong>Reroots</strong> — Match-3 puzzle game with progression and puzzle-focused gameplay.
-- 🎮 <strong>2D Platformer</strong> — Platforming project focused on movement, level design, and game feel.
+-  <strong>Terrabloom</strong> — 2D environment puzzle game focused on restoring polluted land.
+-  <strong>Reroots</strong> — Match-3 puzzle game with progression and puzzle-focused gameplay.
+-  <strong>2D Platformer</strong> — Platforming project focused on movement, level design, and game feel.
 
 ---
 
-## ⭐ Featured Games
+##  Featured Games
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ A platforming game focused on responsive movement, level design, and game feel.
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 **Game Engine:** Unity
 
@@ -97,11 +97,11 @@ A platforming game focused on responsive movement, level design, and game feel.
 
 ---
 
-## 📁 Portfolio
+##  Portfolio
 
-🎮 **Itch.io:** [View my games](YOUR_ITCH_IO_LINK)
+ **Itch.io:** [View my games](YOUR_ITCH_IO_LINK)
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_LINK)
+ **LinkedIn:** [Connect with me](YOUR_LINKEDIN_LINK)
 
 ---
 
@@ -113,7 +113,7 @@ If you're interested in game design, 2D games, Unity development, or interactive
 
 ---
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Advanced Unity gameplay systems
 - Game balancing
